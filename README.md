@@ -1,4 +1,4 @@
-### Hola, soy Jhoan Sebastián Bojacá 👋
+### Hola, soy Sebastián Bojacá 👋
 
 **Futuro Ingeniero Informático (6º Semestre - UMNG) | Apasionado por la Automatización, Bases de Datos y Ciberseguridad**
 
