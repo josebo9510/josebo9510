@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hola, soy Jhoan Sebastián Bojacá 👋
 
-<!--
-**josebo9510/josebo9510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Futuro Ingeniero Informático (6º Semestre - UMNG) | Apasionado por la Automatización, Bases de Datos y Ciberseguridad**
 
-Here are some ideas to get you started:
+Combino una sólida fundamentación académica con más de 8 años de experiencia en análisis de datos y resolución de incidencias en entornos corporativos (B2B/B2C). Mi enfoque radica en escribir código que solucione fricciones operativas reales, optimice tiempos de respuesta y asegure la integridad de los datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack & Herramientas
+* **Desarrollo & Scripting:** JavaScript (DOM, Tampermonkey), Python, Java, C, Google Apps Script.
+* **Bases de Datos:** PostgreSQL (Administración, Roles, `pg_dump`), SQL relacional.
+* **Infraestructura & Seguridad:** Linux (Ubuntu/Bash), VirtualBox, arquitecturas Whonix, Nmap, Wireshark.
+* **Plataformas:** Zendesk API, Oct8ne.
+
+#### 🚀 ¿En qué estoy trabajando actualmente?
+* 🔭 **Automatización de procesos:** Desarrollando validadores lógicos y UserScripts para optimizar ecosistemas CRM (Zendesk, Oct8ne).
+* 🌱 **Infraestructura:** Desplegando y administrando bases de datos PostgreSQL con respaldos automatizados vía cron jobs en Linux.
+* ⚡ **Ciberseguridad:** Configurando topologías de red anónimas y entornos aislados para laboratorios de escaneo de vulnerabilidades.
+
+#### 📫 Conectemos
+* 💼 **LinkedIn:** www.linkedin.com/in/jhoan-sebastian-bojaca-514a2133a
+* ✉️ **Contacto:** jhoansebastian24.jsb@gmail.com
